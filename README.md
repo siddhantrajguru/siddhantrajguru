@@ -6,7 +6,6 @@
 
 ## 👀 I’m Interested In:
 - Web Development (Frontend & Backend)
-- Cybersecurity & Ethical Hacking
 - AI/ML and Automation
 - Open Source Projects
 
